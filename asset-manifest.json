@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/io/ReactGrowWeb/static/css/main.124fa700.css",
-    "main.js": "/io/ReactGrowWeb/static/js/main.f9303759.js",
-    "static/media/laptop.jpg": "/io/ReactGrowWeb/static/media/laptop.45ddf500e572fb2f1d35.jpg",
-    "static/media/single.png": "/io/ReactGrowWeb/static/media/single.20196aa3e7e7fa48f8f7.png",
-    "static/media/double.png": "/io/ReactGrowWeb/static/media/double.8be045e6bb88be63d414.png",
-    "static/media/triple.png": "/io/ReactGrowWeb/static/media/triple.4eb8f19f4b4647321484.png",
-    "index.html": "/io/ReactGrowWeb/index.html",
-    "main.124fa700.css.map": "/io/ReactGrowWeb/static/css/main.124fa700.css.map",
-    "main.f9303759.js.map": "/io/ReactGrowWeb/static/js/main.f9303759.js.map"
+    "main.css": "/ReactGrowWeb/static/css/main.124fa700.css",
+    "main.js": "/ReactGrowWeb/static/js/main.6adcb006.js",
+    "static/media/laptop.jpg": "/ReactGrowWeb/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "static/media/single.png": "/ReactGrowWeb/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/ReactGrowWeb/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/ReactGrowWeb/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/ReactGrowWeb/index.html",
+    "main.124fa700.css.map": "/ReactGrowWeb/static/css/main.124fa700.css.map",
+    "main.6adcb006.js.map": "/ReactGrowWeb/static/js/main.6adcb006.js.map"
   },
   "entrypoints": [
     "static/css/main.124fa700.css",
-    "static/js/main.f9303759.js"
+    "static/js/main.6adcb006.js"
   ]
 }
